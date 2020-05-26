@@ -1,2 +1,2 @@
 # instahack
-https://github.com/avramit/instahack.git
+https://github.com/avramit/instahack.git/insta
